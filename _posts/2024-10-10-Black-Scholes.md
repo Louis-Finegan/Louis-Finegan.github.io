@@ -23,7 +23,7 @@ The asset is sold at agreed upon price, called the *Strike price*, and for Europ
 # Black-Scholes Formula
 ---
 
-The Black-Scholes formula is a mathematical model used to determine a fair *non-arbitrage* price of a European Call Options contract. We must assume the price of the stock follows a [Geometric Brownian Motion](https://en.wikipedia.org/wiki/Geometric_Brownian_motion) and no dividends are paid out. 
+The Black-Scholes formula is a mathematical model used to determine a fair *non-arbitrage* price of a European Call Options contract. We must assume the price of the stock follows a [Geometric Brownian Motion](https://en.wikipedia.org/wiki/Geometric_Brownian_motion), no dividends are paid out and no commission is paid. 
 
 Black-Scholes takes the following form 
 
