@@ -2,7 +2,8 @@
 layout: post
 title: "Black-Scholes Formula in Python"
 subtitle: "Using Black-Scholes formula to estimate the fair price of Netflix Call Options"
-background: /img/posts/Black-Scholes/Netflix.jpg
+background: /img/posts/Black-Scholes/thibault-penin-AWOl7qqsffM-unsplash.jpg
+imagecredit: <a href="https://unsplash.com/@thibaultpenin?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Thibault Penin</a> on <a href="https://unsplash.com/photos/flat-screen-television-displaying-netflix-logo-AWOl7qqsffM?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>    
 ---
 
 <!-- intro statement -->

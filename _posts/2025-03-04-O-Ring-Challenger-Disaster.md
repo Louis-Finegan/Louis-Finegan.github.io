@@ -119,7 +119,7 @@ $$\eta_i = \log\left(\frac{p_i}{1-p_i}\right)$$
 This is also known as the **log odds** or $\text{logit}(p)$ and is very important in logistic regression. The log odds allows us to model a linear relationship between the predictors and the response. With the log odds we can see how the probability of
 of an O-Ring failure changes with an increase in temperature.
 
- We can do this using the Generalized Linear Model function called `glm`. Getting a summary of our mdel gives us the following output. I recommend reading Nelder and Wedderburn's 1972 paper [here] for a full description of Generalized Linear Models.
+ We can do this using the Generalized Linear Model function called `glm`. Getting a summary of our mdel gives us the following output. I recommend reading Nelder and Wedderburn's 1972 paper [here](https://www.jstor.org/stable/2344614) for a full description of Generalized Linear Models.
 
 
 ```R
