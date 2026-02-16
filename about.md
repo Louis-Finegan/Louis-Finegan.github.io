@@ -6,15 +6,15 @@ background: '/img/bg-about.jpg'
 ---
 
 
-## About me
+<img src='/img/Personal image.jpg' alt='Bio Picture'>
 
-I'm an Irish Master of Science student in Mathematical Science at [Maynooth University](https://www.maynoothuniversity.ie/), and earned my [Bachelor of Science in Mathematical Sciences](https://www.tudublin.ie/explore/faculties-and-schools/computing-digital-data/mathematics-and-statistics/news/the-class-of-2025-graduates.php) from [TU Dublin](https://www.tudublin.ie/). I explored areas such as, Cosmology, Quantum Field Theory, Fluid Mechanics, General Relativity, Statistics, Differential Equations, Numerical Analysis, and Machine Learning. I also dived into pure mathematics topics such as Ring and Field Theory, Group Theory, Differential Geometry and Real Analysis.
+I am an Irish Master of Science student in Mathematical Science at [Maynooth University](https://www.maynoothuniversity.ie/), and earned my [Bachelor of Science in Mathematical Sciences](https://www.tudublin.ie/explore/faculties-and-schools/computing-digital-data/mathematics-and-statistics/news/the-class-of-2025-graduates.php) from [TU Dublin](https://www.tudublin.ie/). I explored areas such as, Cosmology, Quantum Field Theory, Fluid Mechanics, General Relativity, Statistics, Differential Equations, Numerical Analysis, and Machine Learning. I also dived into pure mathematics topics such as Ring and Field Theory, Group Theory, Differential Geometry and Real Analysis.
 
-I'm passionate about learning and research in Applied Mathematics and Computing. I love traveling abroad, and I'm excited about the possibility of seeking international collaborations where I can apply mathematical modeling and high-performance computing to solve real-world scientific challenges.
+I am a passionate learner and enjoy research in Applied Mathematics. Beyond my studies, I have found a real passion for teaching as a tutor at Maynooth University. I enjoy the challenge of identifying gaps in a student’s understanding and breaking down problems so they become clear and approachable. 
 
-## My Mathematical Journey
+# My Mathematical Journey
 
-### Bachelor of Science
+## Bachelor of Science
 
 - Statistics & regression analysis
 - Numerical Analysis
@@ -25,7 +25,7 @@ I'm passionate about learning and research in Applied Mathematics and Computing.
 - Ring & Field Theory
 - Real Analysis
 
-### Master of Science
+## Master of Science
 
 - Differential Geometry
 - High-performance Computing
@@ -34,7 +34,7 @@ I'm passionate about learning and research in Applied Mathematics and Computing.
 - Fluid Mechanics
 - General Relativity
 
-## Research Interests
+# Research Interests
 
 - Cosmology
 - Astrophysics
