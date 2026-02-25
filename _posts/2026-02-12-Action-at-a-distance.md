@@ -21,11 +21,15 @@ In the late 18th century, Joseph-Louis Lagrange, and independently Pierre-Simon 
 
 ![Image](/img/posts/Action-at-a-distance/Gravitational-Field-Potential.png)
 
+> The source code for the image above can be found [here](https://gist.github.com/Louis-Finegan/9b0668ca9146ba1fd429a7ba59fb38a0).
+
 # Faraday and Magnetic Fields
 
 It was not until much later, the 19th century, that the term field was coined by Michael Faraday. Faraday famously used iron filings around a magnet to visualise the magnet's magnetic field (see figure below). He used the visual evidence of the curved lines to challenge the action at a distance model: if a force was simply a direct, instantaneous link between two bodies, the lines should be straight and purely determined by the two objects. Instead, his experiments suggested that space itself carries the influence of forces.
 
 ![Adapted from https://www.etcourse.com/news-blog/magnetic-field-lines](/img/posts/Action-at-a-distance/Magnet_Iron_Filings.jpg)
+
+> Image by [Electronics Technician Training](https://www.etcourse.com/news-blog/magnetic-field-lines)
 
 ## Maxwell's Equations
 
