@@ -27,7 +27,7 @@ In this post, we will derive a relation between the mass and velocity of the roc
 
 The following figure shows a rocket in two frames, $\Delta t$ apart. In the first frame, the rocket has a mass $m$ and is moving with velocity $v$. In the second frame, the rocket has ejected fuel with mass $\Delta m$ and, the rocket has lost mass and, in turn, gained velocity $\Delta v$.
 
-![](/img/posts/Rocket-Equation-Artemis-II/rocketdiagram.jpg)
+![Image by Author](/img/posts/Rocket-Equation-Artemis-II/rocketdiagram.jpg)
 
 The net force exerted on the rocket is expressed as the change in momentum $\Delta p$ in that change in time $\Delta t$
 
@@ -63,7 +63,7 @@ $$\Delta v = v(t) - v_0 = u^{\rm rocket}_e\ln{\frac{m_0}{m(t)}},$$
 
 where, $v_0$ is the velocity and $m_0$ is the mass of the rocket at $t=0$. $m(t)$ is the mass of the rocket at time $t$, which can yield the change in velocity at time $t$ for its initial time. 
 
-This equation is a famous equation known as the ideal rocket equation creditied to the Russian rocket scientist, Konstantin Tsiolkovsky in 1903. Although it has been first derived  by British mathematian William Moore in 1810. 
+This equation is a famous equation known as the ideal rocket equation creditied to the Russian rocket scientist, Konstantin Tsiolkovsky in 1903. Although it has been first derived  by British mathematician William Moore in 1810. 
 
 The ideal rocket equation is great description for a rocket in outside of low earth orbit, where gravity and drag forces do not have much influence. What does the model look like when we account for these external forces. 
 
