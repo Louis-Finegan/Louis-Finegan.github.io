@@ -11,7 +11,7 @@ Today, April 1<sup>st</sup> 2026, is an important day for space travel with the 
 
 The major difference from the Apollo missions back in the 1960s and 1970s is that we intend on not just to visit the Moon, but to establish a sustained presence there, using it as a stepping stone for future space missions. 
 
-Artemis II will test the Space Launch System (SLS) and the Orion Spacecraft with a human crew to ensuring all systems are ready for a future Moon landing intended for 2028. The crew consists of, Commander Reid Wiseman, Pilot Victor Glover, Mission Specialist and first woman to leave low earth orbit Christina Koch and First non-US Citizen to leave low earth orbit Jeremy Hansen.
+Artemis II will test the Space Launch System (SLS) and the Orion Spacecraft with a human crew to ensuring all systems are ready for a future Moon landing intended for 2028. The crew consists of, Commander Reid Wiseman, Pilot Victor Glover, Mission Specialist and first woman to leave low earth orbit Christina Koch and first non-U.S. Citizen to leave low earth orbit Jeremy Hansen.
 
 Dispite the excitement of this launch, there is a great opportunity to talk about some physics. Specifically, to answer the question of how do rockets actually move?
 
@@ -19,7 +19,7 @@ Dispite the excitement of this launch, there is a great opportunity to talk abou
 
 Rockets carry their own fuel and eject it at a high velocity in one direction. We know from Newton, that every action has an equal and opposite reaction. As the exhaust gases are expelled downward, the rocket experiences an equal and opposite force that propels it upward.
 
-At the same time, the rocket is losing mass by expelling its fuel. This means that if we want to accelerate to a particluar velocity, the amount of fuel required becomes an important factor. It also leads to important design decisions about payload mass, since carrying additional mass requires more fuel, which in turn increases the total mass that must be lifted and accelerated.
+At the same time, the rocket is losing mass by expelling its fuel. This means that if we want to accelerate to a particular velocity, the amount of fuel required becomes an important factor. It also leads to important design decisions about payload mass, since carrying additional mass requires more fuel, which in turn increases the total mass that must be lifted and accelerated.
 
 In this post, we will derive a relation between the mass and velocity of the rocket using basic physics principles. This relationship is known as the rocket equation. 
 
