@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "It <em>Is</em> Rocket Science: Artemis II and the Rocket Equation"
+title: "It <em>Is</em> Rocket Science Part I: Artemis II and the Rocket Equation"
 subtitle: "Today is launch day of the Artemis II mission, the first crewed mission to orbit the Moon and back. This marks a new chapter of human space exploration, building on decades of progress since the Apollo era. In this post, we will focus on the physics that makes these missions possible, by deriving the rocket equation."
 background: /img/posts/Rocket-Equation-Artemis-II/artemis-ii-rollout.jpg
 imagecredit: <a href="https://www.nasa.gov">NASA</a>
